@@ -1,0 +1,22 @@
+.songsHeadingContainer
+{
+    display: flex;
+    justify-content: space-between;
+}
+Td
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+.heading
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+.songsContainer
+{
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
